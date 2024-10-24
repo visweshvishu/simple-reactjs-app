@@ -8,7 +8,7 @@ import { BrowserRouter as Router, Switch, Route, Redirect} from 'react-router-do
 class App extends Component {
   render() {
     console.log("Host URL"+process.env.PUBLIC_URL);
-console.log("hello just now i in stalled");
+console.log("hello just now i in stalled d");
     return (
 
       <Router basename={process.env.PUBLIC_URL}>
