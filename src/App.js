@@ -15,7 +15,7 @@ console.log("hello just now in dfd installed ");
         <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">Simple React App</h1>
+          <h1 className="App-title">Simplegh React App</h1>
         </header>
           <Switch>
                 <Route exact path= "/" render={() => (
