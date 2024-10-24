@@ -7,7 +7,7 @@ import { BrowserRouter as Router, Switch, Route, Redirect} from 'react-router-do
 
 class App extends Component {
   render() {
-    console.log("Host URL"+process.env.PUBLIC_URL);
+    console.log("Host URdfL"+process.env.PUBLIC_URL);
 console.log("hello just now in dfd installed ");
     return (
 
