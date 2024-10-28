@@ -10,7 +10,7 @@ class App extends Component {
     console.log("Host URdfL"+process.env.PUBLIC_URL);
 console.log("hello just it is installed" );
     return (
-<>
+<div>
 <h1>jksndfkjndfjkndfnkjdfn</h1>
       <Router basename={process.env.PUBLIC_URL}>
         <div className="App">
@@ -26,7 +26,7 @@ console.log("hello just it is installed" );
           </Switch>
       </div>
     </Router>
-    </>
+    </div>
     );
   }
 }
