@@ -12,7 +12,7 @@ console.log("hello just it is installed" );
     return (
 <div>
 <h1>jksndfkjndfjkndfnkjdfn</h1>
-      <Router basename={process.env.PUBLIC_URL}>
+      <Router>
         <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
