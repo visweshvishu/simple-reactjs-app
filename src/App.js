@@ -8,7 +8,7 @@ class App extends Component {
 console.log("hello just it is installed" );
     return (
 <div>
-<h1>jksndfkjndfjkndfnkjdfn</h1>
+<h1>Simple react app</h1>
   
     </div>
     );
