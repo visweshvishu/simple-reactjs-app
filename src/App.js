@@ -12,7 +12,7 @@ console.log("hello just it is installed" );
     return (
 <div>
 <h1>jksndfkjndfjkndfnkjdfn</h1>
-      <Router>
+      {/* <Router>
         <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
@@ -25,7 +25,7 @@ console.log("hello just it is installed" );
                  <Route exact path='/customerlist' component={Customers} />
           </Switch>
       </div>
-    </Router>
+    </Router> */}
     </div>
     );
   }
