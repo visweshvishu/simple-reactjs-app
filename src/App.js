@@ -5,7 +5,7 @@ import './App.css';
 class App extends Component {
   render() {
     console.log("Host URdfL"+process.env.PUBLIC_URL);
-console.log("hello just it is installed" );
+console.log("hello just it  installed" );
     return (
 <div>
 <h1>Simple react app</h1>
